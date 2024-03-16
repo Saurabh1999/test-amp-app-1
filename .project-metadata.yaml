@@ -20,7 +20,6 @@ tasks:
     short_summary: Create and start CML Llama2 frontend application
     long_summary: Create and start CML Llama2 frontend application. Ensure available GPUs for best performance. Remember to enable unauthenticated app access for external access to the UI.
     cpu: 2
-    memory: 16
-    gpu: 1
+    memory: 2
     environment_variables:
       TASK_TYPE: START_APPLICATION
