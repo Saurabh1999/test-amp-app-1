@@ -10,7 +10,7 @@ date: "2023-10-02"
 runtimes:
   - editor: JupyterLab
     kernel: Python 3.9
-    edition: Nvidia GPU
+    edition: Standard
 
 tasks:
   - type: start_application
